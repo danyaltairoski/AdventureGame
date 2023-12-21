@@ -1,0 +1,9 @@
+.*/
+out/
+*.xml
+*.iml
+*.log
+*.class
+.idea/
+assignment2/.idea/
+target/
