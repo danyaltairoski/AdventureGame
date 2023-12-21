@@ -1,0 +1,78 @@
+1
+Starting Room
+You stand in a dimly lit chamber, the air thick with an unsettling stillness. To the north, a narrow corridor beckons, mysterious whispers echoing within.
+-----
+-----
+NORTH      2
+
+2
+Corridor
+A narrow corridor with eerie sounds echoing. Passages lead in various directions.
+-----
+-----
+NORTH       3/KEY2
+EAST       4
+SOUTH       1
+WEST       5/KEY1
+
+3
+Inside building
+You are hiding inside a small room in the building, there is no danger. An obscure hidden passage leads west, there is also a large door east.
+-----
+-----
+SOUTH      2
+WEST       7
+EAST       8
+
+4
+Key Room
+Soft light emanates from a pedestal in the center, revealing a key of ancient design. This key is your ticket to the unknown passages to the west, guarded by secrets.
+-----
+-----
+WEST       2
+
+5
+Boss 1 Chamber
+A cavernous chamber with the first boss, a sluggish monster. Defeat it to proceed.
+-----
+MINITROLL
+NORTH      6
+EAST       2
+
+6
+Key Chamber
+A mysterious chamber with a much larger key. It looks like it opens a very important door.
+-----
+-----
+SOUTH    5
+
+7
+Gun Room
+A faint hum fills the room as you discover a high-tech firearm glinting in the corner. Equip it for a powerful advantage against the encroaching darkness.
+-----
+-----
+EAST    3
+
+8
+Boss 2 Lair
+The air crackles with tension as you step into the lair of the second boss, capable of shooting bullets. Defeat it to secure passage to new challenges.
+-----
+SUPERTROLL
+NORTH    9
+WEST    3
+
+9
+Boss 3 Arena
+The final showdown awaits in this foreboding arena. The third boss, a formidable foe, unleashes a barrage of attacks. Utilize your newfound arsenal and healing potion strategically for triumph.
+-----
+KINGTROLL
+WEST     10
+SOUTH     8
+
+10
+Exit
+Congratulations! You've emerged victorious, the exit standing before you like a gateway to freedom. As you step through, the echoes of your conquest resonate in the shadows behind.
+-----
+-----
+FORCED     0
+

@@ -1,0 +1,45 @@
+11
+WASD
+Use WASD to move to the next room
+-----
+-----
+NORTH      12
+
+12
+KEY
+There is a key in this room, click on it to pick it up, without it, you can't proceed to the next room
+-----
+-----
+NORTH      13/KEY1
+SOUTH      11
+
+13
+ATTACK
+This is a Mini Troll, it is harmless. You must defeat the trolls in the room to proceed
+-----
+MINITROLL
+NORTH      14
+SOUTH      12
+
+14
+BOSS2
+This is a Super Troll that can shoot bullets. Pick up the gun in the room, press 'P' to shoot and kill the troll
+-----
+SUPERTROLL
+NORTH      15
+SOUTH      13
+
+15
+BOSS3
+This is a King Troll, it has more health and shoots faster, try and kill him
+-----
+KINGTROLL
+NORTH      16
+SOUTH      14
+
+16
+FINISH
+Congratulations, you've finished the tutorial
+-----
+-----
+SOUTH      15

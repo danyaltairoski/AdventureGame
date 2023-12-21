@@ -1,0 +1,15 @@
+KEY1
+a water bird
+4
+
+KEY2
+a pirate chest
+6
+
+GUN
+literally a gun
+7
+
+POTION
+tells you the items in the surrounding rooms
+3
